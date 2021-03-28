@@ -182,7 +182,7 @@ body.dark-theme {
   border-radius: 10px;
   padding: 5px;
   margin-bottom: 10px;
-  flex: 25% auto;
+  flex: 20% auto;
 }
 
 @media (max-width: 1200px) {
